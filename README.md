@@ -17,7 +17,9 @@ System type - 64-bit operating system,
 x64-based processor
 # DATASET FOR THE GIVEN PROBLEM URL : 
 https://drive.google.com/drive/folders/1UP1VfXFZIDt3aU2wZIQRiubInxdCZ8zL
-
+Machine Learning 
+# e_commerce_final_collab.ipynb File
+Machine Learning Approach To the problem
 
 # Procedure To Run The Wepage -
 
