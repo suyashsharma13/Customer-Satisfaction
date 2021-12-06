@@ -31,7 +31,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic1.jpg" alt = "product image">
+                                <img src = "pic1.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                                 <button type = "button" class = "btn-cart">
@@ -60,7 +60,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic2.jpg" alt = "product image">
+                                <img src = "pic2.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                             <button type = "button" class = "btn-cart">
@@ -85,7 +85,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic3.jpg" alt = "product image">
+                                <img src = "pic3.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                             <button type = "button" class = "btn-cart">
@@ -110,7 +110,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic4.jpg" alt = "product image">
+                                <img src = "pic4.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                             <button type = "button" class = "btn-cart">
@@ -139,7 +139,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic5.jpg" alt = "product image">
+                                <img src = "pic5.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                             <button type = "button" class = "btn-cart">
@@ -164,7 +164,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic6.jpg" alt = "product image">
+                                <img src = "pic6.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                             <button type = "button" class = "btn-cart">
@@ -189,7 +189,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic77.jpg" alt = "product image">
+                                <img src = "pic77.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                             <button type = "button" class = "btn-cart">
@@ -214,7 +214,7 @@ if (!isset($_SESSION['username'])) {
                     <div class = "product">
                         <div class = "product-content">
                             <div class = "product-img">
-                                <img src = "images/pic8.jpg" alt = "product image">
+                                <img src = "pic8.jpg" alt = "product image">
                             </div>
                             <div class = "product-btns">
                             <button type = "button" class = "btn-cart">
